@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Learn how to run this application on your computer"
 date:   2014-08-18 14:48:56
 categories: jekyll update
 ---
