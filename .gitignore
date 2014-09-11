@@ -1,1 +1,5 @@
-_site
+vendor/
+bin/
+.bundle/
+.sass-cache/
+_site/

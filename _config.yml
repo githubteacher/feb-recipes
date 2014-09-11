@@ -9,3 +9,6 @@ github_username:  githubschool
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - vendor
