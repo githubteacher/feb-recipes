@@ -5,7 +5,7 @@ date:   2014-09-10 18:15
 categories: lunch, dinner
 ---
 
-![delicious](http://i21.photobucket.com/albums/b285/shauna869/b534652a.jpg)
+![Cheesy](http://www.tacobell.com/static_files/TacoBell/StaticAssets/images/menuItems/pdp/pdp_chicken_quesadilla.png)
 
 ## Ingredients
 - Tortillas
