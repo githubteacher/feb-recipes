@@ -11,7 +11,7 @@ categories: desert
 - Baguette
 - [Nutella](http://www.nutellausa.com/)
 - Peanut Butter
-- Banana
+- Nanner
 
 ## Directions
 
