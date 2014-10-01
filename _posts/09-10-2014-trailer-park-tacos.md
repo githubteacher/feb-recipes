@@ -11,3 +11,4 @@ categories: main
 - Shell
 - Real meat product
 - Simulated corn
+- Salsa
