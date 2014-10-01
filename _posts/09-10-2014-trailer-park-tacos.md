@@ -11,3 +11,5 @@ categories: main
 - Shell
 - Real meat product
 - Simulated corn
+- Artisanal augula
+- Salsa
