@@ -9,4 +9,5 @@ categories: main
 
 ## Ingredients
 - Shell
-- Simulated meat product
+- Real meat product
+- Simulated corn
