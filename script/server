@@ -1,6 +1,6 @@
 #!/bin/sh
 
-_buildscripts/update
-_buildscripts/cibuild
+script/update
+scripts/cibuild
 
 bundle exec jekyll serve --watch "$@"
