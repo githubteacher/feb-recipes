@@ -1,4 +1,4 @@
-vendor/
+vendor/gems
 bin/
 .bundle/
 .sass-cache/
