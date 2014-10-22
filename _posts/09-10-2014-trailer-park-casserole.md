@@ -8,8 +8,8 @@ categories: main
 
 
 ## Ingredients
-- Box Velveeta Shells & Cheese
-- Can of tunafish
+- Box of velveeta shells & cheese
+- Can of tuna fish
 - Can of peas
 
 ## Directions
