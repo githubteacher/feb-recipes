@@ -8,8 +8,8 @@ categories: entree
 
 
 ## Ingredients
-- Burger bRead
-- Pastrami Meat
+- Burger buns
+- Pastrami meat
 - Onios and Tomato Slices
 - Banana
 
