@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Artisan baguette with organic nut butters and fresh fruit"
+title:  "Artisan Baguette with Organic Nut Butters and Fresh Fruit"
 date:   2014-08-18 15:00
 categories: desert
 ---
