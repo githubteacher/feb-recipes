@@ -14,3 +14,5 @@ categories: lunch
 
 ## Tools
 - Knife
+- Bowl
+- Electric Mixer
