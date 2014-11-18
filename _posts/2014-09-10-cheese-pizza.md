@@ -9,6 +9,8 @@ categories: entree
 - Pizza dough
 - Italian red sauce
 - Mozarella cheese
+- Bell Peppers
+- Onions
 
 ## Directions
 
