@@ -10,6 +10,7 @@ categories: desert
 - 1 cup white sugar
 - Raisins
 - Banana
+- Jalpeno peppers
 
 ## Directions
 
