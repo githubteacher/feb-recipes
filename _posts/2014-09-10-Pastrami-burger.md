@@ -15,6 +15,8 @@ categories: entree
 
 ## Tool
  - knife
+ - grill
+ - smoker
 
 Spread a healthy amount of Nutella on to a baguette, and place as much peanut butter as you feel acceptable on to the other half of the baguette.
 
