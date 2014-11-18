@@ -12,6 +12,9 @@ categories: lunch, dinner
 - Cheese
 - Butter or Oil
 
+## Sides
+ - Guacamole
+
 ## Tools
 - Pan
 - Cheese Grater
