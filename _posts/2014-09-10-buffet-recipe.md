@@ -8,9 +8,13 @@ categories: buffet
 ## Ingredients
 - Chicken
 - Lasangna
+- Burbon
+- Homebrew beer
 
 ## Tool
 - Knives
 - serving table
+- Bottle opened
 
 ## Directions
+Drink bubon and beer while setting buffet.
