@@ -14,4 +14,8 @@ categories: entree
 
 ## Directions
 
-Toss the dough into a round shape.  Don't drop it.  Spread sauce.  Sprinkle cheese.  Bake.  Eat.
+Toss the dough into a round shape.  Don't drop it.  Spread sauce.  Sprinkle cheese.  Bake.  
+
+focus... pull back the cooked cheese layer.  splatter in some franks redhot sauce.  lay cheese layer back down.
+
+Eat.
