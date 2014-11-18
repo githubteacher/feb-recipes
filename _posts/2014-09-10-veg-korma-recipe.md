@@ -9,6 +9,8 @@ categories: lunch
 - Vegetable
 - Cashew Nuts
 - Milk
+- almonds
+- cream
 
 ## Tools
 - Knife
