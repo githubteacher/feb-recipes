@@ -11,6 +11,7 @@ categories: lunch, dinner
 - Tortillas
 - Cheese
 - Butter or Oil
+- Extra Hot Sauce
 
 ## Tools
 - Pan
