@@ -17,4 +17,4 @@ categories: buffet
 - Bottle opener
 
 ## Directions
-Drink burbon and beer while setting buffet.
+Drink bubon and beer while setting buffet.
