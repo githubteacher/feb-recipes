@@ -9,6 +9,7 @@ categories: main
 
 Here’s what I assembled to make about 4 quarts of beef bone broth:
 
+- More broth
 - 2 carrots, chopped medium
 - 2 celery stalks, chopped medium
 - 1 medium onion, chopped medium
