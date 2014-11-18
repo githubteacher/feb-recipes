@@ -9,6 +9,7 @@ categories: lunch
 - Bread
 - Peanut butter
 - Jelly
+- Bananas
 
 ## Tools
 - Knife
