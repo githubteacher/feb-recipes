@@ -14,7 +14,7 @@ categories: buffet
 ## Tool
 - Knives
 - serving table
-- Bottle opener
+- Bottle opened
 
 ## Directions
-Drink burbon and beer while setting buffet.
+Drink bubon and beer while setting buffet.
