@@ -11,6 +11,7 @@ categories: main
 - Box of velveeta shells & cheese
 - Can of tuna fish
 - Can of peas
+- Can of beans
 
 ## Directions
 
