@@ -15,7 +15,18 @@ Here’s how to make Tacos from iCarly
 - Dried Spaghetti
 - water 
 - Emerills tomato sauce
+- Salt
 
 ## Directions
 
-Dump the vegetables in the bottom of a 6-quart slow cooker…
+- Boil some water. Add a dash of salt.
+- Add the pasta to the water when boiling
+- Nuke the tomato sauce in the microwave
+- Warm up the taco shells in the toaster to make them crispy
+- Sautee chopped beef with the ortega taco ingredients
+
+When spaghetti is soft, drain in collander. Mix in tomato sauce.
+Build tacos
+Add spaghetti on top.
+
+Enjoy.
