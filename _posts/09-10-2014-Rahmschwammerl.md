@@ -5,7 +5,7 @@ date:   2014-24-11 13:00
 categories: main
 ---
 
-
+![foodpic.jpg]http://toertchenherzog.com/wp-content/uploads/2013/11/DSC09956-1024x685.jpg
 
 ## Ingredients
 1.5 lbs mushrooms, cleaned and chopped or thickly sliced
