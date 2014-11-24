@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Artisan Baguette with Organic Nut Butters and Fresh Fruit"
+title:  "Gouda Grilled Cheese w Nanners"
 date:   2014-08-18 15:00
 categories: sugary breakfast
 ---
