@@ -2,7 +2,7 @@
 layout: post
 title:  "Artisan Baguette with Organic Nut Butters and Fresh Fruit"
 date:   2014-08-18 15:00
-categories: desert
+categories: sugary breakfast
 ---
 
 ![delicious](http://i.huffpost.com/gen/1215809/thumbs/o-GOUDA-RECIPES-facebook.jpg)
@@ -16,6 +16,9 @@ categories: desert
 - and add tomatoes and a movie and you're set
 
 ## Directions
+
+## Citation
+huffpost.com
 
 Spread a healthy amount of Nutella on to a baguette, and place as much peanut butter as you feel acceptable on to the other half of the baguette.
 
