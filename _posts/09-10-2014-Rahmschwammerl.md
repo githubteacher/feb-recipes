@@ -27,3 +27,7 @@ Season with salt and freshly ground pepper to taste and add parsley.
 In a different saucier or pan melt last 2 TBS of butter, and stir flour into the melted butter. Continue to stir until smooth. Pour wine and broth into flour mixture and bring to boil, continually stirring for several minutes.
 Salt and Pepper to taste. Finally add heavy whipping cream and mix (do not boil) and mushrooms.
 If you like different types of mushrooms, feel free to add some "exotic" (portobello, crimini, etc.)dried mushrooms, after having soaked them in the wine for about 20 minutes,to the cooking mushrooms.
+
+
+Thanks All recipes for being the first google result:
+http://allrecipes.com/personalrecipe/62305309/rahmschwammerl-german-mushrooms-in-cream-sauce/detail.aspx
