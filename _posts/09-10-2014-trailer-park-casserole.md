@@ -9,7 +9,7 @@ categories: main
 
 ## Ingredients
 - Box of velveeta shells & cheese
-- Can of salmon
+- Can of bay salmon
 - Can of peas
 - Can of beans
 - A large quantity of Hot Sauce
