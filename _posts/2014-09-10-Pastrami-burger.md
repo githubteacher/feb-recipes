@@ -9,13 +9,13 @@ categories: entree
 
 ## Ingredients
 - Burger buns, baguette or bagel
-- Pastrami meat
+- Pastrami substitute
 - Onios and Tomato Slices
 - Banana
 
 ## Tool
  - knife
- - grill
+ - oven
  - smoker
 
 Spread a healthy amount of Nutella on to a  buns, baguette or bagel, and place as much peanut butter as you feel acceptable on to the other half of the baguette.
