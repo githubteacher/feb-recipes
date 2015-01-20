@@ -1,8 +1,8 @@
 # French Toast
 
-1. 4 eggs
+1. 3 eggs
 2. 1/2 Cup milk
-3. Some bread (sliced)
+3. 6 slices of good bread
 
 Combine eggs & milk.
 Dunk bread in milk.
