@@ -16,6 +16,7 @@ Here’s how to make Tacos from iCarly
 - water 
 - Emerills tomato sauce
 - Salt
+- Tamari as a flavor enhancer
 
 ## Directions
 
