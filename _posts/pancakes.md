@@ -3,7 +3,7 @@
 1. 1 Cup flour
 1. 1 Cup buttermilk
 1. 1 tsp salt
-1. 3 Tablespoons sugar
+1. 2 Tablespoons sugar
 
 ### Instructions
 
