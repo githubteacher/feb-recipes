@@ -8,3 +8,4 @@ Combine eggs & milk.
 Dunk bread in milk.
 Fry bread on grill.
 Serve with fruit.
+:)
