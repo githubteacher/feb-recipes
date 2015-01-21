@@ -7,6 +7,7 @@ A place to render family recipes: https://githubschool.github.io/recipes
 - Create feature branch
 - Work on feature
   - Render locally to ensure proper layout
+- Submit a pull request
 
 ## Getting started
 
