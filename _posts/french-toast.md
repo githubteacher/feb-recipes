@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "French Toast"
+date:   2015-02-23 17:00
+categories: main
+---
+
 # French Toast
 
 1. 3 eggs
@@ -8,4 +15,3 @@ Combine eggs & milk.
 Dunk bread in milk.
 Fry bread on grill.
 Serve with fruit.
-:)
