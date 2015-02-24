@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "French Toast"
+title:  "Dad's French Toast"
 date:   2015-02-23 17:00
 categories: main
 ---
 
-# French Toast
+# Dad's French Toast
 
 1. 3 eggs
 2. 1/2 Cup milk
