@@ -13,10 +13,9 @@ A place to render family recipes: https://githubschool.github.io/recipes
 
 ```
 script/bootstrap
-script/server
 ```
 
-After initial running of bootstrap, just run:
+After running of bootstrap, just run:
 
 ```
 script/server
