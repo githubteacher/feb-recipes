@@ -35,7 +35,7 @@ categories: main
 3 Place ball of dough in a bowl that has been coated lightly with olive oil. Turn the dough around in the bowl so that it gets coated with the oil. Cover with plastic wrap. Let sit in a warm place (75-85°F) until it doubles in size, about 1 to 1 1/2 hours (or several hours longer, a longer rise will improve the flavor). If you don't have a warm spot in the house you can heat the oven to 150 degrees, and then turn off the oven. Let the oven cool till it is just a little warm, then place the bowl of dough in this warmed oven to rise. 
 At this point, if you want to make ahead, you can freeze the dough in an airtight container for up to two weeks.
 
-### Pizzas
+#### Pizzas
 1 Place a pizza stone on a rack in the lower third of your oven. Preheat the oven to 450°F for at least 30 minutes, preferably an hour.
 2 Remove the plastic cover from the dough and punch the dough down so it deflates a bit. Divide the dough in half. Form two round balls of dough. Place each in its own bowl, cover with plastic and let sit for 10 minutes.
 3 Prepare your desired toppings. Note that you are not going to want to load up each pizza with a lot of toppings as the crust will end up not crisp that way. About a third a cup each of tomato sauce and cheese would be sufficient for one pizza. One to two mushrooms thinly sliced will cover a pizza.
