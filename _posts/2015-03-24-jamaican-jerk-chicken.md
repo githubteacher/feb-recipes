@@ -18,3 +18,7 @@ categories: main
 - 1 lime cut in slices
 
 ### Directions
+- Spray a nonstick skillet with cooking spray and heat over medium heat.
+- Sprinkle 1 or 2 tbsp of the Jamaican jerk seasoning over the chicken and toss making sure each piece is generously seasoned. Add the chicken to the skillet and cook for a few minutes, it will cook in about 5 to 7 minutes or so because pieces are fairly small.
+- Make the sauce by mixing together the mayonnaise with a bit of Jamaican jerk seasoning.
+- To assemble the lettuce wraps, top each lettuce leaf with some of the coleslaw mix, chicken, green onions, cilantro, peanuts and drizzle with a bit of the mayo sauce.
