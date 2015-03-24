@@ -7,6 +7,11 @@ categories: main
 
 # Jamaican Jerk Chicken
 
+![githubstudent-jamaican-jerk-chicken](https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11055405_844274338971011_1260567503_n.jpg)
+
+## Original Author
+[@healthyfitnessmeals](https://instagram.com/p/0S-tTqTSYF/?taken-by=healthyfitnessmeals)
+
 ### Ingredients
 - 8 lettuce leaves, I used Boston lettuce, but iceburg lettuce works
 - 2 chicken breasts, cut into small pieces
