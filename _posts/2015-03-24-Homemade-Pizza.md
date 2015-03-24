@@ -10,8 +10,8 @@ categories: main
 -	Cook time: 30 minutes
 -	Yield: Makes 2 10-12-inch pizzas.
 
-### Ingredients
-#### Pizza Dough: Makes enough dough for two 10-12 inch pizzas
+## Ingredients
+### Pizza Dough: Makes enough dough for two 10-12 inch pizzas
 -	1 1/2 cups warm water (105°F-115°F)
 -	1 package (2 1/4 teaspoons) of active dry yeast (check the expiration date on the package)
 -	3 1/2 cups bread flour (can use all-purpose but bread flour will give you a crisper crust)
@@ -19,7 +19,7 @@ categories: main
 -	2 teaspoons salt
 -	1 teaspoon sugar
 
-#### Pizza Ingredients
+### Pizza Ingredients
 -	Olive oil
 -	Cornmeal (to slide the pizza onto the pizza stone)
 -	Tomato sauce (purée)
@@ -31,8 +31,8 @@ categories: main
 -	Pesto
 -	Onions, thinly sliced
 
-### Directions
-#### Pizza Dough
+## Directions
+### Pizza Dough
 - In the large bowl of a heavy duty electric mixer (such as a Kitchen Aid), add the warm water. Sprinkle on the yeast and let sit for 5 minutes until the yeast is dissolved. Stir to dissolve completely if needed at the end of 5 minutes.
 
 - Attach a mixing paddle to the mixer. Mix in the olive oil, flour, salt and sugar on low speed for about a minute. Remove the mixing paddle and replace with a dough hook. Knead using the mixer and dough hook, on low to medium speed, until the dough is smooth and elastic, about 10 minutes. If you don't have a mixer, you can mix and knead by hand. If the dough seems a little too wet, sprinkle on a bit more flour.
@@ -41,7 +41,7 @@ categories: main
 
 - At this point, if you want to make ahead, you can freeze the dough in an airtight container for up to two weeks.
 
-#### Pizzas
+### Pizzas
 - Place a pizza stone on a rack in the lower third of your oven. Preheat the oven to 450°F for at least 30 minutes, preferably an hour.
 
 - Remove the plastic cover from the dough and punch the dough down so it deflates a bit. Divide the dough in half. Form two round balls of dough. Place each in its own bowl, cover with plastic and let sit for 10 minutes.
