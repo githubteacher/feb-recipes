@@ -16,4 +16,4 @@ To get started, just run:
 ```
 script/server
 ```
-This will run a few other commands to ensure that you're all up to date. If you're familiar with Jekyll, this just essentially runs `jekyll serve --watch`
+This will run a few other commands to ensure that you're all up to date. If you're familiar with Jekyll, this runs `jekyll serve --watch`
