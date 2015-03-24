@@ -7,7 +7,7 @@ categories: main
 
 # Jamaican Jerk Chicken
 
-![githubstudent-jamaican-jerk-chicken](https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11055405_844274338971011_1260567503_n.jpg)
+![githubstudent-jamaican-jerk-chicken](https://cloud.githubusercontent.com/assets/1142544/6808883/00129702-d214-11e4-83fb-670867240bf1.jpg)
 
 ## Original Author
 [@healthyfitnessmeals](https://instagram.com/p/0S-tTqTSYF/?taken-by=healthyfitnessmeals)
