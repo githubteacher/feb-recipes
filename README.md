@@ -11,13 +11,9 @@ A place to render family recipes: https://githubschool.github.io/recipes
 
 ## Getting started
 
-```
-script/bootstrap
-```
-
-After running of bootstrap, just run:
+To get started, just run:
 
 ```
 script/server
 ```
-This will take care of any updates you may need.
+This will run a few other commands to ensure that you're all up to date. If you're familiar with Jekyll, this just essentially runs `jekyll serve --watch`
