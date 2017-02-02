@@ -6,7 +6,7 @@ A place to render family recipes: https://githubteacher.github.io/feb-recipes/
 
 ### Fork and Pull
 1. Fork the repository
-1. Clone the repository to your local machine
+1. Clone the repository to your local machine using `git clone`
 1. Checkout the `development` branch using `git checkout development`
 1. Create a new branch called `HANDLE-recipe` using `git checkout -b HANDLE-recipe`
 1. Navigate to the `_/posts` folder
@@ -18,7 +18,7 @@ A place to render family recipes: https://githubteacher.github.io/feb-recipes/
 1. Create a Pull Request using the base fork: `githubteacher/feb-recipes` and the `development` branch.
 
 ### Collaborator
-1. Clone the repository to your local machine
+1. Clone the repository to your local machine using `git clone`
 1. Checkout the `development` branch using `git checkout development`
 1. Create a new branch called `HANDLE-recipe` using `git checkout -b HANDLE-recipe`
 1. Navigate to the `_/posts` folder
