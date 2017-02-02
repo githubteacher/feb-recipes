@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Spinach Dip"
+date:   2017-02-02 
+categories: main
+---
+
 ## Ingrediants
 
 - 1. Spinach
