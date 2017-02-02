@@ -3,3 +3,5 @@ bin/
 .bundle/
 .sass-cache/
 _site/
+.DS_Store
+_posts/.DS_Store
